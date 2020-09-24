@@ -1,0 +1,85 @@
+{
+  "inputs": [
+    {
+      "name": "a11",
+      "public": false,
+      "type": "field"
+    },
+    {
+      "name": "a12",
+      "public": false,
+      "type": "field"
+    },
+    {
+      "name": "a21",
+      "public": false,
+      "type": "field"
+    },
+    {
+      "name": "a22",
+      "public": false,
+      "type": "field"
+    },
+    {
+      "name": "b11",
+      "public": false,
+      "type": "field"
+    },
+    {
+      "name": "b12",
+      "public": false,
+      "type": "field"
+    },
+    {
+      "name": "b21",
+      "public": false,
+      "type": "field"
+    },
+    {
+      "name": "b22",
+      "public": false,
+      "type": "field"
+    },
+    {
+      "name": "c11",
+      "public": false,
+      "type": "field"
+    },
+    {
+      "name": "c12",
+      "public": false,
+      "type": "field"
+    },
+    {
+      "name": "c21",
+      "public": false,
+      "type": "field"
+    },
+    {
+      "name": "c22",
+      "public": false,
+      "type": "field"
+    },
+    {
+      "name": "d11",
+      "public": false,
+      "type": "field"
+    },
+    {
+      "name": "d12",
+      "public": false,
+      "type": "field"
+    },
+    {
+      "name": "d21",
+      "public": false,
+      "type": "field"
+    },
+    {
+      "name": "d22",
+      "public": false,
+      "type": "field"
+    }
+  ],
+  "outputs": []
+}
