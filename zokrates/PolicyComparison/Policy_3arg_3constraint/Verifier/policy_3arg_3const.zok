@@ -1,0 +1,5 @@
+def main(private field a, private field b, private field c):
+    assert(a>1000)
+    assert(b>1000)
+    assert(c>1000)
+    return

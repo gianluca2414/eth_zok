@@ -1,0 +1,10 @@
+def main(private field a, private field b, private field c, private field d, private field e, private field f, private field g, private field h):
+    assert(a>1000)
+    assert(b>1000)
+    assert(c>1000)
+    assert(d>1000)
+    assert(e>1000)
+    assert(f>1000)
+    assert(g>1000)
+    assert(h>1000)
+    return

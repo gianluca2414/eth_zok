@@ -1,0 +1,1 @@
+Politica che esprime un singolo vincolo su un singolo attributo privato, sia questo il guadagno

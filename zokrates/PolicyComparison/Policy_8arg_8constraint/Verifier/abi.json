@@ -1,0 +1,45 @@
+{
+  "inputs": [
+    {
+      "name": "a",
+      "public": false,
+      "type": "field"
+    },
+    {
+      "name": "b",
+      "public": false,
+      "type": "field"
+    },
+    {
+      "name": "c",
+      "public": false,
+      "type": "field"
+    },
+    {
+      "name": "d",
+      "public": false,
+      "type": "field"
+    },
+    {
+      "name": "e",
+      "public": false,
+      "type": "field"
+    },
+    {
+      "name": "f",
+      "public": false,
+      "type": "field"
+    },
+    {
+      "name": "g",
+      "public": false,
+      "type": "field"
+    },
+    {
+      "name": "h",
+      "public": false,
+      "type": "field"
+    }
+  ],
+  "outputs": []
+}

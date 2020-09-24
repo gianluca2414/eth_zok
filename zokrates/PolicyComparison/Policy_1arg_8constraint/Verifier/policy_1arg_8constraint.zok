@@ -1,0 +1,10 @@
+def main(private field a):
+    assert(a>1000)
+    assert(a<10000)
+    assert(a<5555)
+    assert(a>1200)
+    assert(a<5000)
+    assert(a>1300)
+    assert(a<3000)
+    assert(a>1800)
+    return

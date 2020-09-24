@@ -1,0 +1,1 @@
+Policy composta da 2 argomenti privati, ognuno dei quali ha un proprio vincolo.
